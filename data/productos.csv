@@ -1,0 +1,9 @@
+producto_id,nombre_producto,categoria,precio_unitario,costo_unitario
+1,Notebook Pro 14”,Tecnología,1200,900
+2,Mouse Inalámbrico,Tecnología,25,10
+3,Teclado Mecánico,Tecnología,80,40
+4,Silla Ergonómica,Hogar,300,180
+5,Escritorio Oficina,Hogar,450,280
+6,Auriculares BT,Tecnología,150,70
+7,Monitor 24”,Tecnología,350,220
+8,Lámpara LED,Hogar,40,15
