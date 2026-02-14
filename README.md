@@ -28,22 +28,9 @@ NumPy	Soporte para cálculos numéricos
 Power BI	Visualización y construcción del dashboard
 Git & GitHub	Control de versiones y portfolio profesional
 🗂️ Arquitectura del Proyecto
-tienda-online-analytics/
-│
-├── data/
-│   ├── raw/              # Datos originales
-│   └── processed/        # Dataset final listo para análisis
-│
-├── src/
-│   ├── extract.py        # Lectura de datos
-│   ├── transformaciones.py  # Limpieza, joins y métricas
-│   └── main.py           # Orquestación del pipeline ETL
-│
-├── dashboard/
-│   └── dashboard.pbix    # Dashboard de Power BI
-│
-├── requirements.txt
-└── README.md
+
+<img width="424" height="303" alt="image" src="https://github.com/user-attachments/assets/50a103ed-ca59-4851-a614-aeb49e77d016" />
+
 
 🔄 Proceso ETL
 1️⃣ Extracción
@@ -78,12 +65,19 @@ El dataset final consolidado se exportó en formato CSV para su consumo en Power
 
 📊 Métricas de Negocio Construidas
 Métrica	Definición
+
 Ventas Totales	Precio × Cantidad vendida
+
 Costos Totales	Costo unitario × Cantidad vendida
+
 Ganancia	Ventas − Costos
+
 Margen de Ganancia (%)	(Ganancia / Ventas) × 100
+
 Ventas por Mes	Evolución temporal del negocio
+
 Top Productos	Productos con mayor volumen de ventas
+
 📈 Dashboard de Power BI
 
 El dashboard fue diseñado con un enfoque ejecutivo, permitiendo:
@@ -141,13 +135,19 @@ Este tipo de análisis permite pasar de una visión operativa (ventas) a una vis
 Este proyecto refleja tareas reales de un Data Analyst:
 
 ✔ Integración y modelado de datos
+
 ✔ Construcción de KPIs de negocio
+
 ✔ Análisis exploratorio
+
 ✔ Visualización orientada a decisiones
+
 ✔ Comunicación de insights
 
 👤 Autor
 
 Bruno Argañaraz
+
 Linkedin : https://www.linkedin.com/in/bruno-arga%C3%B1araz-726a4a199/
+
 Email : bruno.r.arganaraz@gmail.com
